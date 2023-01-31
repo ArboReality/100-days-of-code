@@ -25,5 +25,8 @@ Learned how to
 **Thoughts:** 
 So far a lot of fun, but I want to find a way to apply what I learn somehow...
 
-**Link to work:** [My Timeline](https://www.freecodecamp.org/ArboReality)
+**Link to work:** 
+[My Timeline](https://www.freecodecamp.org/ArboReality)
+
+[Today's tweet](https://twitter.com/arbo_reality/status/1620337862570024960?s=20&t=DilyOvu2824VyNVC4ghqDQ)
 
