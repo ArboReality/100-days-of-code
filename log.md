@@ -30,3 +30,22 @@ So far a lot of fun, but I want to find a way to apply what I learn somehow...
 
 [Today's tweet](https://twitter.com/arbo_reality/status/1620337862570024960?s=20&t=DilyOvu2824VyNVC4ghqDQ)
 
+
+### Day 3: February 1st 2023
+
+**Today's Progress**: 
+
+Reached 57% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) 
+
+Learned how to
+  1. Use State to Toggle an Element
+  2. Wrote a Simple Counter!
+
+**Thoughts:** 
+Things are getting more challenging, and I love it!
+
+
+**Link to work:** 
+[My React Sandbox on Replit](https://replit.com/@ArboReality/React-Sandbox?v=1)
+
+
