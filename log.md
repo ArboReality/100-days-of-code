@@ -49,3 +49,15 @@ Things are getting more challenging, and I love it!
 [My React Sandbox on Replit](https://replit.com/@ArboReality/React-Sandbox?v=1)
 
 
+### Day 4: February 2nd 2023
+
+**Today's Progress**: 
+
+Reached 60% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) and created a Controlled input!
+
+**Thoughts:** 
+Taking it easy today but I'm still doing some work!
+
+
+**Link to work:** 
+[My React Sandbox on Replit](https://replit.com/@ArboReality/React-Sandbox?v=1)
