@@ -61,3 +61,23 @@ Taking it easy today but I'm still doing some work!
 
 **Link to work:** 
 [My React Sandbox on Replit](https://replit.com/@ArboReality/React-Sandbox?v=1)
+
+
+
+### Day 5: February 3rd 2023
+
+**Today's Progress**: 
+
+Reached 66% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) 
+
+  1. Built a Controlled Form component
+  2. Challenged myself to also make a functional component version of the Controlled Form and Input components.
+  3. Learned how to pass State as Props to Child Components and
+  4. how to pass a Callback function as Props
+
+**Thoughts:** 
+I'm getting OaK at this!
+
+
+**Link to work:** 
+[My React Sandbox on Replit](https://replit.com/@ArboReality/React-Sandbox?v=1)
