@@ -81,3 +81,15 @@ I'm getting OaK at this!
 
 **Link to work:** 
 [My React Sandbox on Replit](https://replit.com/@ArboReality/React-Sandbox?v=1)
+
+
+
+### Day 6: February 4th 2023
+
+**Today's Progress**
+Refreshed some JavaScript knowledge and rebuilt a functional counter component 
+
+**Thoughts:** 
+Taking a break from the react course today! 
+
+**Link to work:** 
