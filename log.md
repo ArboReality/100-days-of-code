@@ -93,3 +93,16 @@ Refreshed some JavaScript knowledge and rebuilt a functional counter component
 Taking a break from the react course today! 
 
 **Link to work:** 
+
+
+
+### Day 7: February 5th 2023
+
+**Today's Progress**
+Reached 72% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) 
+
+Learned basics of component lifecycle and how to use event listeners! 
+
+**Thoughts:** 
+
+**Link to work:** 
