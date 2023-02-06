@@ -106,3 +106,20 @@ Learned basics of component lifecycle and how to use event listeners!
 **Thoughts:** 
 
 **Link to work:** 
+
+
+
+### Day 8: February 6rd 2023
+
+**Today's Progress**: 
+
+Reached 83% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) 
+Learned How to:
+  1. Optimize Re-Renders with shouldComponentUpdate
+  2. Add Inline styling with a global style object
+  3. Render with an If-Else Condition
+
+**Thoughts:** 
+There are endless opportunities to keep growing!
+
+**Link to work:** 
