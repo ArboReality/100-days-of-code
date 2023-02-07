@@ -123,3 +123,20 @@ Learned How to:
 There are endless opportunities to keep growing!
 
 **Link to work:** 
+
+### Day 9: February 7rd 2023
+
+**Today's Progress**: 
+
+Reached 91% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) 
+Learned How to:
+  1. Use && and Ternary Expressions to shorten conditional rendering
+  2. Render Conditionally from Props
+  3. Conditionally Change Inline CSS Based on Component State
+
+
+**Thoughts:** 
+There's just a little bit more until I finish the course, but that's just the start of my learning journey! 
+
+
+**Link to work:** 
