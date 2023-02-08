@@ -140,3 +140,24 @@ There's just a little bit more until I finish the course, but that's just the st
 
 
 **Link to work:** 
+
+
+### Day 10: February 8th 2023
+
+**Today's Progress**: 
+
+Reached 100% on freecodecamp's [React Course](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) 
+Learned How to Use Array methods to;
+  1. Dynamically Render Elements
+  2. give Sibling Elements Unique Key Attributes
+  3. dynamically filter an array
+  
+Also learned about SSR with renderToString!
+
+
+**Thoughts:** 
+Looking forward to start working on the Front End Development Libraries Certification projects soon! 
+
+
+**Link to work:**
+
