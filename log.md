@@ -161,3 +161,13 @@ Looking forward to start working on the Front End Development Libraries Certific
 
 **Link to work:**
 
+### Day 11: February 9th 2023
+
+**Today's Progress**: 
+Started building a random quote machine! 
+
+**Thoughts:** 
+Just started with the basic layouts, I'll worry about rendering new quotes another time.
+
+**Link to work:**
+[Replit project page](https://replit.com/@ArboReality/RandomQuoteMachine)
