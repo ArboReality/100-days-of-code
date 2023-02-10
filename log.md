@@ -171,3 +171,14 @@ Just started with the basic layouts, I'll worry about rendering new quotes anoth
 
 **Link to work:**
 [Replit project page](https://replit.com/@ArboReality/RandomQuoteMachine)
+
+### Day 12: February 10th 2023
+
+**Today's Progress**: 
+Managed to build a prototype for the random quotes machine that randomly displays quotes!
+
+**Thoughts:** 
+Just started with the basic layouts, I'll worry about rendering new quotes another time.
+
+**Link to work:**
+[Github Repo](https://github.com/ArboReality/RandomQuoteMachine)
