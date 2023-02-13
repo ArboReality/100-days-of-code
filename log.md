@@ -189,3 +189,14 @@ Just started with the basic layouts, I'll worry about rendering new quotes anoth
 **Today's Progress**: 
 Learned about API's today! 
 Conveniently got @ossia's newsletter today on how to start using API's so that inspired me to try and implement one in my #RandomQuoteMachine 🌿
+
+### Day 14: February 13th 2023
+
+**Thoughts:** 
+Took yesterday off and tried not to feel like a failure for missing one day. 
+
+**Today's Progress**:
+Today I completed all tests for the Quote Generator alas without any API's... yet! 🌄
+
+**Link to work:**
+[Github Repo](https://github.com/ArboReality/RandomQuoteMachine)
