@@ -200,3 +200,12 @@ Today I completed all tests for the Quote Generator alas without any API's... ye
 
 **Link to work:**
 [Github Repo](https://github.com/ArboReality/RandomQuoteMachine)
+
+
+### Day 15-16: February 16th 2023
+
+**Today's Progress**:
+Completed markdown previewer!
+
+**Link to work:**
+[Preview on Replit](https://replit.com/@ArboReality/MarkdownPreviewer?v=1)
