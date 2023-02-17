@@ -209,3 +209,15 @@ Completed markdown previewer!
 
 **Link to work:**
 [Preview on Replit](https://replit.com/@ArboReality/MarkdownPreviewer?v=1)
+
+
+### Day 17: February 17th 2023
+
+**Today's Progress**:
+Started building a JS calculator with React!
+
+**Thoughts**:
+I had fun styling the grid-layout for the UI!
+
+**Link to work:**
+[Preview on Replit](https://replit.com/@ArboReality/JsCalculator?v=1)
